@@ -2,3 +2,5 @@ Xft.dpi: 210
 XTerm*faceName: DejaVu Sans Mono
 XTerm*faceSize: 8
 XTerm*renderFont: true
+XTerm*Background: Black
+XTerm*Foreground: White
